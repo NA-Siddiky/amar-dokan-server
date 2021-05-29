@@ -16,7 +16,6 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-
 app.get("/", (req, res) => {
   res.send("Welcome! To the Amar dokan Server...");
 });
@@ -45,9 +44,15 @@ client.connect((err) => {
       });
   });
 
-
+  //add all products to database
+  app.post("/addProducts", (req, res) => {
+    const options = { ordered: true };
+    productCollection.insertMany(req.body, options).then((result) => {
+      // console.log(`${result.insertedCount} documents were inserted`);
+      res.send(result.insertedCount > 0);
+    });
+  });
 });
-
 
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`);
