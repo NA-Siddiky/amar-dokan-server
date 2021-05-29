@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": 1,
     "catagory": "Cloth",
     "shopName": "CK",
@@ -7,8 +8,10 @@
     "image": "https://i.ibb.co/XXdhBCD/pngegg.png",
     "price": 145,
     "quantity": 8,
-    "rating": 1
-  }, {
+    "rating": 3,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
     "id": 2,
     "catagory": "Cloth",
     "shopName": "H&M",
@@ -17,9 +20,98 @@
     "image": "https://i.ibb.co/HVdDPGt/hm-t-shirt.jpg",
     "price": 171,
     "quantity": 7,
-    "rating": 4
-  }, {
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+
+  {
     "id": 3,
+    "catagory": "Cloth",
+    "shopName": "CK",
+    "productName": "Baby Cloth",
+    "brandName": "Calvin Kelin",
+    "image": "https://i.ibb.co/6Hy1nTx/Baby-Clothes.png",
+    "price": 145,
+    "quantity": 8,
+    "rating": 3,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 4,
+    "catagory": "Cloth",
+    "shopName": "H&M",
+    "productName": "Black T-Shirt",
+    "brandName": "H&M",
+    "image": "https://i.ibb.co/s5Lcmtf/Black-T-Shirt.png",
+    "price": 171,
+    "quantity": 7,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 5,
+    "catagory": "Cloth",
+    "shopName": "CK",
+    "productName": "Denim-Shirt",
+    "brandName": "Calvin Kelin",
+    "image": "https://i.ibb.co/K5z2jGf/Denim-Shirt.png",
+    "price": 171,
+    "quantity": 7,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+
+  {
+    "id": 6,
+    "catagory": "Cloth",
+    "shopName": "CK",
+    "productName": "Hoodie-Blue-White",
+    "brandName": "Calvin Kelin",
+    "image": "https://i.ibb.co/3sSMCCB/Hoodie-Blue-White.png",
+    "price": 171,
+    "quantity": 7,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 7,
+    "catagory": "Cloth",
+    "shopName": "CK",
+    "productName": "White-T-Shirt",
+    "brandName": "Calvin Kelin",
+    "image": "https://i.ibb.co/Mh3C4t4/White-T-Shirt.png",
+    "price": 171,
+    "quantity": 7,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 8,
+    "catagory": "Cloth",
+    "shopName": "JK",
+    "productName": "Yellow hoodie",
+    "brandName": "Jack & Jones",
+    "image": "https://i.ibb.co/h9fCNVr/Front-Hoodie.png",
+    "price": 171,
+    "quantity": 7,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 9,
+    "catagory": "Cloth",
+    "shopName": "JK",
+    "productName": "Black-Jacket (Nylon)",
+    "brandName": "Jack & Jones",
+    "image": "https://i.ibb.co/DL92jMN/Nylon-Jacket.png",
+    "price": 171,
+    "quantity": 7,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+
+  {
+    "id": 10,
     "catagory": "Electronics",
     "shopName": "HP",
     "productName": "Laptop i3",
@@ -27,9 +119,11 @@
     "image": "https://i.ibb.co/4JVbxPz/hp-laptop.jpg",
     "price": 162,
     "quantity": 9,
-    "rating": 5
-  }, {
-    "id": 4,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 11,
     "catagory": "Electronics",
     "shopName": "Apple",
     "productName": "iPhone 12 mini",
@@ -37,9 +131,72 @@
     "image": "https://i.ibb.co/3T5Zrwn/Smartfon-APPLE-i-Phone-12-mini-64-GB-Czarny-front.jpg",
     "price": 161,
     "quantity": 8,
-    "rating": 4
-  }, {
-    "id": 5,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+
+  {
+    "id": 12,
+    "catagory": "Electronics",
+    "shopName": "Apple",
+    "productName": "iPad 11 Pro",
+    "brandName": "Apple",
+    "image": "https://i.ibb.co/JzXbgqm/IPad-11-Pro.png",
+    "price": 161,
+    "quantity": 8,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 13,
+    "catagory": "Electronics",
+    "shopName": "Apple",
+    "productName": "Apple Watch Series 5",
+    "brandName": "Apple",
+    "image": "https://i.ibb.co/0C6zXKZ/Apple-Watch-Series-5.png",
+    "price": 161,
+    "quantity": 8,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 14,
+    "catagory": "Electronics",
+    "shopName": "Sony",
+    "productName": "Sony Play Station PS4",
+    "brandName": "Sony",
+    "image": "https://i.ibb.co/NWsZ6nX/Sony-Play-Station.png",
+    "price": 161,
+    "quantity": 8,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 15,
+    "catagory": "Electronics",
+    "shopName": "Sony",
+    "productName": "Home theater Soundbar Wireless",
+    "brandName": "Sony",
+    "image": "https://i.ibb.co/gV6K4Fd/Soundbar-Wireless.png",
+    "price": 161,
+    "quantity": 8,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 16,
+    "catagory": "Electronics",
+    "shopName": "Apple",
+    "productName": "iPhone 11",
+    "brandName": "Apple",
+    "image": "https://i.ibb.co/Tc5kQfZ/i-Phone-11-Frame.png",
+    "price": 161,
+    "quantity": 8,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 17,
     "catagory": "Groceries",
     "shopName": "Radhuni",
     "productName": "Radhuni Meat Curry Masala",
@@ -47,9 +204,11 @@
     "image": "https://i.ibb.co/ctcVN92/radhuni-meat-curry-masala-100-gm.jpg",
     "price": 102,
     "quantity": 4,
-    "rating": 4
-  }, {
-    "id": 6,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 18,
     "catagory": "Groceries",
     "shopName": "Pran",
     "productName": "Pran Chinigura Rice 2KG",
@@ -57,9 +216,83 @@
     "image": "https://i.ibb.co/JnTtXRg/pran-chinigura-rice.jpg",
     "price": 192,
     "quantity": 10,
-    "rating": 4
-  }, {
-    "id": 7,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 19,
+    "catagory": "Groceries",
+    "shopName": "Pran",
+    "productName": "Chips Stacy's Pita Chips",
+    "brandName": "Stacy's",
+    "image": "https://i.ibb.co/yWfxPYB/Chips-Stacy-s-Pita-Chips.png",
+    "price": 192,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 20,
+    "catagory": "Groceries",
+    "shopName": "Pran",
+    "productName": "CocaCola 2L",
+    "brandName": "CocaCola",
+    "image": "https://i.ibb.co/jzxn5CQ/CocaCola.jpg",
+    "price": 192,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 21,
+    "catagory": "Groceries",
+    "shopName": "Pran",
+    "productName": "Sunflower-Oil",
+    "brandName": "Pran",
+    "image": "https://i.ibb.co/w0kQy93/Sunflower-Oil.png",
+    "price": 192,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 22,
+    "catagory": "Groceries",
+    "shopName": "Pran",
+    "productName": "Heinz-Ketchup",
+    "brandName": "Heinz",
+    "image": "https://i.ibb.co/dWPqqKf/Heinz-Ketchup.jpg",
+    "price": 192,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 23,
+    "catagory": "Groceries",
+    "shopName": "Pran",
+    "productName": "Honey Zach Zoe Wildflower",
+    "brandName": "Zac Zoe",
+    "image": "https://i.ibb.co/GC2YDQC/Honey-Zach-Zoe-Wildflower.png",
+    "price": 192,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 24,
+    "catagory": "Groceries",
+    "shopName": "Jiff",
+    "productName": "Jiff Choco Moose",
+    "brandName": "Jiff",
+    "image": "https://i.ibb.co/T0NRcVN/Jiff-Choco-Moose.jpg",
+    "price": 192,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 25,
     "catagory": "Crockeries",
     "shopName": "RFL",
     "productName": "Tulip-Dinner-Set-32-pcs-set-pink",
@@ -67,9 +300,11 @@
     "image": "https://i.ibb.co/8x8b8H2/Tulip-Dinner-Set-32-pcs-set-pink.jpg",
     "price": 111,
     "quantity": 6,
-    "rating": 5
-  }, {
-    "id": 8,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 26,
     "catagory": "Crockeries",
     "shopName": "Royal",
     "productName": "Royal-crockery set",
@@ -77,9 +312,71 @@
     "image": "https://i.ibb.co/47xV5rk/royal-crockery.jpg",
     "price": 149,
     "quantity": 1,
-    "rating": 5
-  }, {
-    "id": 9,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 27,
+    "catagory": "Crockeries",
+    "shopName": "Royal",
+    "productName": "Tea Mug",
+    "brandName": "Royal",
+    "image": "https://i.ibb.co/XyhT0FY/Tea-Mug.jpg",
+    "price": 149,
+    "quantity": 5,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 28,
+    "catagory": "Crockeries",
+    "shopName": "RFL",
+    "productName": "Tea Pot Set",
+    "brandName": "RFL",
+    "image": "https://i.ibb.co/7RDLwdz/Tea-Pot-Set.png",
+    "price": 149,
+    "quantity": 7,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 29,
+    "catagory": "Crockeries",
+    "shopName": "Royal",
+    "productName": "Ceramics Plates and Bowls Set",
+    "brandName": "Royal",
+    "image": "https://i.ibb.co/5Wdkr8L/Ceramics-Plates-and-Bowls.jpg",
+    "price": 149,
+    "quantity": 3,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 30,
+    "catagory": "Crockeries",
+    "shopName": "RFL",
+    "productName": "Food Container & Utensils set",
+    "brandName": "RFL",
+    "image": "https://i.ibb.co/zbJNxMJ/Food-Container-and-utensils-set.jpg",
+    "price": 149,
+    "quantity": 10,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 31,
+    "catagory": "Crockeries",
+    "shopName": "RFL",
+    "productName": "Spoons Set",
+    "brandName": "RFL",
+    "image": "https://i.ibb.co/cxwvSKY/Spoons-Set.jpg",
+    "price": 149,
+    "quantity": 15,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 32,
     "catagory": "Home Appliances",
     "shopName": "Singer",
     "productName": "Singer grinder & juice machine",
@@ -87,9 +384,72 @@
     "image": "https://i.ibb.co/jbdZMP3/Singer-grinder-juice-machine.jpg",
     "price": 169,
     "quantity": 1,
-    "rating": 1
-  }, {
-    "id": 10,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 33,
+    "catagory": "Home Appliances",
+    "shopName": "Singer",
+    "productName": "Singer Split-Air-Conditioner",
+    "brandName": "Singer",
+    "image": "https://i.ibb.co/HC0tHHX/Split-Air-Conditioner.png",
+    "price": 169,
+    "quantity": 7,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 34,
+    "catagory": "Home Appliances",
+    "shopName": "Singer",
+    "productName": "Singer Split-Air-Conditioner",
+    "brandName": "Singer",
+    "image": "https://i.ibb.co/5YFZbmH/Stylish-Red-Fridge.jpg",
+    "price": 169,
+    "quantity": 7,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 35,
+    "catagory": "Home Appliances",
+    "shopName": "Samsung",
+    "productName": "Samsung Double-door-Fridege",
+    "brandName": "Samsung",
+    "image": "https://i.ibb.co/Zczmttn/Double-door-Fridege.png",
+    "price": 169,
+    "quantity": 7,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 36,
+    "catagory": "Home Appliances",
+    "shopName": "Samsung",
+    "productName": "Samsung TV",
+    "brandName": "Samsung",
+    "image": "https://i.ibb.co/X2MdbGF/Samsung-TV.png",
+    "price": 169,
+    "quantity": 7,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 37,
+    "catagory": "Home Appliances",
+    "shopName": "Samsung",
+    "productName": "Samsung Washing Machine",
+    "brandName": "Samsung",
+    "image": "https://i.ibb.co/4t8h1D9/Samsung-Washing-Machine.png",
+    "price": 169,
+    "quantity": 7,
+    "rating": 5,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+
+  {
+    "id": 38,
     "catagory": "Sports & Fitness",
     "shopName": "Adidas",
     "productName": "Adidas Snickers",
@@ -97,5 +457,151 @@
     "image": "https://i.ibb.co/6ZFVF9q/adidas-snikers.jpg",
     "price": 175,
     "quantity": 10,
-    "rating": 4
-  }]
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 39,
+    "catagory": "Sports & Fitness",
+    "shopName": "Adidas",
+    "productName": "Sports Bag",
+    "brandName": "Adidas",
+    "image": "https://i.ibb.co/HqFkMHS/Sports-Bag.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 40,
+    "catagory": "Sports & Fitness",
+    "shopName": "Adidas",
+    "productName": "Sports Jacket",
+    "brandName": "Adidas",
+    "image": "hhttps://i.ibb.co/PmZP41K/Sports-Jacket.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 41,
+    "catagory": "Sports & Fitness",
+    "shopName": "Adidas",
+    "productName": "Baseball Set",
+    "brandName": "Adidas",
+    "image": "https://i.ibb.co/M7KbVRV/Baseball-Set.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 42,
+    "catagory": "Sports & Fitness",
+    "shopName": "Adidas",
+    "productName": "Dumbell Set",
+    "brandName": "Adidas",
+    "image": "https://i.ibb.co/RycWbzL/Dumbell-Set.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 43,
+    "catagory": "Sports & Fitness",
+    "shopName": "Adidas",
+    "productName": "Cricket Helmet",
+    "brandName": "Adidas",
+    "image": "https://i.ibb.co/8s4wTwC/Cricket-Helmet.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 44,
+    "catagory": "Sports & Fitness",
+    "shopName": "Adidas",
+    "productName": "Cricket Game Set",
+    "brandName": "Adidas",
+    "image": "https://i.ibb.co/NpDWJJy/Cricket-Game-Set.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 45,
+    "catagory": "Sports & Fitness",
+    "shopName": "Medic",
+    "productName": "Mask 50 pieces",
+    "brandName": "Medic",
+    "image": "https://i.ibb.co/HBMTV8R/Mask-50-pices.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 46,
+    "catagory": "Sports & Fitness",
+    "shopName": "Medic",
+    "productName": "Mask-3-pieces",
+    "brandName": "Medic",
+    "image": "https://i.ibb.co/dmhgZQ7/Mask-3-pices.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 47,
+    "catagory": "Sports & Fitness",
+    "shopName": "Medic",
+    "productName": "General Pills Fever and Cough",
+    "brandName": "Medic",
+    "image": "https://i.ibb.co/z7XHSqT/Genaral-Pills-Fever-and-Cough.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 48,
+    "catagory": "Sports & Fitness",
+    "shopName": "Medic",
+    "productName": "Vitamin Pills",
+    "brandName": "Medic",
+    "image": "https://i.ibb.co/KDXgC0b/Vitamin-Pills.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 49,
+    "catagory": "Sports & Fitness",
+    "shopName": "Medic",
+    "productName": "First Aid Bandage",
+    "brandName": "Medic",
+    "image": "https://i.ibb.co/4JdmpRH/First-Aid-Bandage.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  },
+  {
+    "id": 50,
+    "catagory": "Sports & Fitness",
+    "shopName": "Medic",
+    "productName": "Antiseptic-Spray",
+    "brandName": "Medic",
+    "image": "https://i.ibb.co/KmbCqd8/Antiseptic-Spray.png",
+    "price": 175,
+    "quantity": 10,
+    "rating": 4,
+    "destination": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
+  }
+]
