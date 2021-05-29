@@ -23,7 +23,6 @@
     "rating": 4,
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
   },
-
   {
     "id": 3,
     "catagory": "Cloth",
@@ -108,7 +107,6 @@
     "rating": 4,
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
   },
-
   {
     "id": 10,
     "catagory": "Electronics",
@@ -445,7 +443,6 @@
     "rating": 5,
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae sunt tempore saepe ipsam. Adipisci tempore quis, tenetur minima eos laudantium!"
   },
-
   {
     "id": 38,
     "catagory": "Sports & Fitness",
